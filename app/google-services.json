@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "631768094549",
+    "firebase_url": "https://lex-manager.firebaseio.com",
+    "project_id": "lex-manager",
+    "storage_bucket": "lex-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631768094549:android:01df1cc683c106a9da41dc",
+        "android_client_info": {
+          "package_name": "com.lexdev.manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631768094549-g8ptl2gtsg3v2iqfj3hs4bscmkuuf7f3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lexdev.manager",
+            "certificate_hash": "66e8fc02d65cb431a86475308e8f594de4ba7b5d"
+          }
+        },
+        {
+          "client_id": "631768094549-9n4637ad8vsl1njdemsvqv0t0p9fvl0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK_sgEAvZd9Vc4G6s8ZoSEUpsTOc8icHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631768094549-9n4637ad8vsl1njdemsvqv0t0p9fvl0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
